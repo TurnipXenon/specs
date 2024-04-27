@@ -1,0 +1,13 @@
+{
+  "name": "specs",
+  "version": "1.0.0",
+  "description": "Scripting resource",
+  "main": "index.ts",
+  "scripts": {
+    "main": "npx tsx index.ts",
+    "test": "jest",
+    "refresh-to-dev": "./scripts/refresh-to-dev.sh"
+  },
+  "author": "Turnip",
+  "email": "turnipxenon@gmail.com"
+}

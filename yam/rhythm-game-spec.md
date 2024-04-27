@@ -4,7 +4,7 @@
 
 Mimic the gameplay for Theatrhythm Curtain Call: https://www.youtube.com/watch?v=HY1E5pH94bQ
 
-This is version 2. The original version 1 exists as [RhythmGameSpecV1.md](./RhythmGameSpecV1.md)
+This is version 2. The original version 1 exists as [RhythmGameSpecV1.md](./rhythm-game-spec-v1)
 
 ### Why do have v2?
 
